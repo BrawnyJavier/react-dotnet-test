@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "accountingdashboard.client", "accountingdashboard.client\accountingdashboard.client.esproj", "{442E6D6D-2479-174D-0B48-955F48565377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountingDashboard.Server", "AccountingDashboard.Server\AccountingDashboard.Server.csproj", "{571F258A-7744-4C93-BCBE-F96873C50EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442E6D6D-2479-174D-0B48-955F48565377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442E6D6D-2479-174D-0B48-955F48565377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442E6D6D-2479-174D-0B48-955F48565377}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{442E6D6D-2479-174D-0B48-955F48565377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442E6D6D-2479-174D-0B48-955F48565377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{442E6D6D-2479-174D-0B48-955F48565377}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{571F258A-7744-4C93-BCBE-F96873C50EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571F258A-7744-4C93-BCBE-F96873C50EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571F258A-7744-4C93-BCBE-F96873C50EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571F258A-7744-4C93-BCBE-F96873C50EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {299FC400-E318-42D8-B85B-BC1AD6A69F67}
+	EndGlobalSection
+EndGlobal

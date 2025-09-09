@@ -1,0 +1,1 @@
+C:\Users\Brawny Mateo\Desktop\react-dotnet-test\accountingdashboard.client\obj\Debug\accountingdashboard.client.esproj.CoreCompileInputs.cache

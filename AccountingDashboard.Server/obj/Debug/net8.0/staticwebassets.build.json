@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "sRtz+QxEkIzOeSUGrhhfTCpH4mHyrlwzsfixD/Y4ef0=",
+  "Source": "AccountingDashboard.Server",
+  "BasePath": "_content/AccountingDashboard.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Brawny Mateo\\Desktop\\react-dotnet-test\\accountingdashboard.client\\accountingdashboard.client.esproj",
+      "Version": 2,
+      "Source": "accountingdashboard.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
