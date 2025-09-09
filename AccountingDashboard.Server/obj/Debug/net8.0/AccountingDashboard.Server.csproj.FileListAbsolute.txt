@@ -30,10 +30,14 @@ C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\obj\D
 C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AccountingDashboard.Server.props
 C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AccountingDashboard.Server.props
 C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\obj\Debug\net8.0\Accounti.ACD4FAF0.Up2Date
 C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\obj\Debug\net8.0\AccountingDashboard.Server.dll
 C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\obj\Debug\net8.0\refint\AccountingDashboard.Server.dll
 C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\obj\Debug\net8.0\AccountingDashboard.Server.pdb
 C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\obj\Debug\net8.0\AccountingDashboard.Server.genruntimeconfig.cache
 C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\obj\Debug\net8.0\ref\AccountingDashboard.Server.dll
+C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\obj\Debug\net8.0\AccountingDashboard.Server.sourcelink.json
+C:\Users\Brawny Mateo\Desktop\react-dotnet-test\AccountingDashboard.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
